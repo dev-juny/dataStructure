@@ -1,4 +1,4 @@
-/* 단반향 Linked List 예제*/
+/* 단반향 Linked List */
 class Node {
     int data;
     Node next = null;
